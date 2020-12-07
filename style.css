@@ -1,0 +1,57 @@
+body {
+    background-color: peachpuff;
+    text-align: center;
+}
+
+h1.titulo {
+    color: maroon;
+}
+
+p.carta {
+    text-align: left;
+    color: maroon;
+}
+
+img.imagen_carta {
+    width: 150px;
+    height: 150px;
+}
+
+p.cafe {
+    text-align: center;
+    color: maroon;
+}
+
+img.imagen_cafe {
+    width: 150px;
+    height: 150px;
+}
+
+p.contacto {
+    text-align: right;
+    color: maroon;
+}
+
+img.imagen_contacto {
+    width: 150px;
+    height: 150px;
+}
+
+p.cafetexto {
+    color: darkred;
+    text-align: left;
+}
+
+p.contactotexto {
+    color: darkred;
+    text-align: left;
+}
+
+img.imagen_direccion {
+    width: 500px;
+    height: 500px;
+}
+
+p.direccion {
+    text-align: left;
+}
